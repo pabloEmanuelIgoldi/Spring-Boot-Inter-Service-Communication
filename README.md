@@ -14,7 +14,7 @@ No se abordarán conceptos como mensajería, llamadas asincrónicas, circuit bre
 
 El enfoque principal será ilustrar las llamadas REST síncronas entre microservicios, destacando las librerías utilizadas para facilitar su implementación.
 
-Se utilizan dos librerías para realizar llamadas a APIs externas: RestTemplate y Feign.
+Se utilizan dos librerías para realizar llamadas a APIs que exponen servicios: RestTemplate y Feign.
 
 El proyecto consta de tres APIs:
 
