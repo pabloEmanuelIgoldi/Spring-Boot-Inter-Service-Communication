@@ -26,7 +26,7 @@ Adicionalmente, se implementaron:
 
 - Interceptor centralizado: Se agregó un interceptor para manejar errores en todas las llamadas a servicios, tanto con RestTemplate como con Feign.
 
-- Validación de autorización: Se implementó una validación del Authorization que se envia en el Header en las APIs que exponen servicios. Se utilizan tokens estáticos para este propósito.
+- Validación de autorización: Se implementó una validación del Authorization que se envia en el Header a las APIs que exponen servicios. Se utilizan tokens estáticos para este propósito.
 
 - Patrón Retry: Se aplicó el patrón de reintentos en operaciones idempotentes para garantizar la resiliencia en caso de fallos transitorios.
 
