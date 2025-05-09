@@ -8,7 +8,7 @@
 
 #  **Definición del proyecto**
 
-El objetivo de este proyecto es demostrar la comunicación HTTP entre servicios desarrollados con Spring Boot. 
+El objetivo de este proyecto es demostrar la comunicación HTTP en servicios desarrollados con Spring Boot. 
 
 No se abordarán conceptos como mensajería, llamadas asincrónicas, circuit breaker, gRPC ni balanceo de carga. 
 
