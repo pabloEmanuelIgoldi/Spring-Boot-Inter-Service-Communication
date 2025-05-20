@@ -4,7 +4,7 @@
 ### Definición del proyecto
 ### Tecnología aplicada
 ### Pruebas
-### Índice de proyectos Spring Boot
+### Índice de proyectos Spring
 
 #  **Definición del proyecto**
 
@@ -51,11 +51,15 @@ http://localhost:8080/api-consumer/swagger-ui/index.html
 
 http://localhost:8080/api-consumer-docs
 
-#  **Índice de proyectos Spring Boot**
-
+---
+#  **Índice de proyectos Spring**
+##  **Proyectos Spring Boot**
 - [Response Uniforme](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Response-Wrapper)
 - [LogBack](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Logback)
 - [Profile](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Profile)
 - [Spring Doc](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Swagger)
 - [Validate](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Validate)
 - [Inter-Service Communication](https://github.com/pabloEmanuelIgoldi/Spring-Boot-Inter-Service-Communication)
+##  **Proyectos Spring Data**
+- [Spring Data + Redis(Cache)](https://github.com/pabloEmanuelIgoldi/Spring-Data-Redis)
+
